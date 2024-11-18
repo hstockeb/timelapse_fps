@@ -77,7 +77,7 @@ You should see `opencv-python` and `tqdm` in the list of installed packages.
 2. Run the script:
 
 ```bash
-python modified_timelapse_subfolders.py
+python timelapse_subfolders.py
 ```
 
 Follow the on-screen prompts to configure the video output.
